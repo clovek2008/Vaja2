@@ -23,3 +23,11 @@ def sodi(sez):
             i+=1
     return i
 print(sodi(sez))
+
+def lihi(sez):
+    int i = 0
+    for i in sez:
+        if i%2==1:
+            i+=1
+    return i
+print(lihi(sez))
