@@ -44,3 +44,5 @@ print(lihi(sez))
 def uredi(sez)
 
 def funkcija9(sez)
+
+def funkcija10(10)
