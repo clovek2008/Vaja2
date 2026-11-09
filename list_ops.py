@@ -40,3 +40,5 @@ def večja10(sez):
             sez.append(i)
     return sez
 print(lihi(sez))
+
+def uredi(sez)
