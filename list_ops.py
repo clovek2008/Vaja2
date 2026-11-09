@@ -6,12 +6,20 @@ print(vsota(sez))
 
 def povprecna(sez):
     return sum(sez)/len(sez)
-print(vsota(sez))
+print(povprecna(sez))
 
 def najvecja(sez):
     return max(sez)
-print(vsota(sez))
+print(najvecja(sez))
 
 def najmanjse(sez):
     return min(sez)
-print(vsota(sez))
+print(najmanjse(sez))
+
+def sodi(sez):
+    int i = 0
+    for i in sez:
+        if i%2==0:
+            i+=1
+    return i
+print(sodi(sez))
