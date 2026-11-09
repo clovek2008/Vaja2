@@ -7,3 +7,7 @@ print(vsota(sez))
 def povprecna(sez):
     return sum(sez)/len(sez)
 print(vsota(sez))
+
+def najvecja(sez):
+    return max(sez)
+print(vsota(sez))
