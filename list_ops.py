@@ -31,3 +31,12 @@ def lihi(sez):
             i+=1
     return i
 print(lihi(sez))
+
+
+def večja10(sez):
+    int sez = []
+    for i in sez:
+        if i>10:
+            sez.append(i)
+    return sez
+print(lihi(sez))
