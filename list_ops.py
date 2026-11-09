@@ -42,3 +42,5 @@ def večja10(sez):
 print(lihi(sez))
 
 def uredi(sez)
+
+def funkcija9(sez)
